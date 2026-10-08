@@ -1,34 +1,29 @@
 # 05 · Distribution: the product doesn't sell itself
 
-Citation IDs are in `SOURCES.md`. Most of this chapter comes from the 2012 class on distribution [CS183-09]. All
-`[CS183-nn]` quotes are **from Blake Masters' class notes**, not a transcript. In CS183-10 and CS183-15, guests
-were present; only lines the notes attribute to Thiel are used as his.
+Citation IDs are in `SOURCES.md`. **This chapter rests mostly on one source: Blake Masters' notes of the 2012
+class on distribution [CS183-09].** They are labelled on every quote and are not a transcript. His own later
+words on distribution are thin; the few that exist ([AMA14], [YCL5], [HAM16]) are used where they fit. In
+CS183-10 and CS183-15, guests were present; only lines the notes attribute to Thiel are used as his.
 
-> "It is the single topic whose importance people understand least." [CS183-09, from Blake Masters' class notes]
+The notes call distribution "the single topic whose importance people understand least." [CS183-09, from Blake
+Masters' class notes]
 
 ## The best product doesn't always win
 
-> "The first thing to do is to dispel the belief that the best product always wins." [CS183-09, from Blake
-> Masters' class notes]
+The class opened by attacking the belief that the best product always wins, and the claim that a product sells itself is, per the notes,
+"almost never true." [CS183-09, from Blake Masters' class notes] When a successful
+company says it does no sales at all, the notes have Thiel suggesting that the claim is itself a sales pitch
+[CS183-10].
 
-> "People say it all the time: this product is so good that it sells itself. This is almost never true."
-> [CS183-09, from Blake Masters' class notes]
-
-The notes include a two-by-two: product sells itself or needs selling, against no sales effort or a strong
-one. The cell "Product sells itself, no sales effort. Does not exist." [CS183-09]
-
-When a successful company claims it does no sales or marketing: "Because that, itself, is probably a sales
-pitch." [CS183-10, from Blake Masters' class notes, Thiel speaking]
+His own later aside fits the same view of selling as a skill: in Silicon Valley, a suit in a pitch meeting
+"makes you look like someone who is bad at sales and worse at tech." [AMA14]
 
 ## The math: lifetime value vs acquisition cost
 
-> "In a world with some friction and uncertainty, you build a great business if CLV > CPA." [CS183-09, from
-> Blake Masters' class notes]
-
-CLV in the notes is revenue per user, times gross margin, times average customer lifetime. The worked example
-[CS183-09]: a $40-a-month phone plan, 24-month lifetime, "A customer's lifetime revenue is thus $960. If you
-have a 40% gross margin, the customer's lifetime value is $384. You're in good shape if it costs less than $384
-to acquire that customer."
+The notes' rule: "you build a great business if CLV > CPA." [CS183-09, from Blake Masters' class notes] CLV
+is revenue per customer, times gross margin, times average lifetime. Their example, paraphrased: a $40-a-month
+phone plan kept for 24 months is $960 of revenue; at a 40% margin, CLV is $384, so you need to acquire the
+customer for less than that [CS183-09].
 
 | Input | Notes example [CS183-09] | Yours |
 |---|---|---|
@@ -40,105 +35,90 @@ to acquire that customer."
 
 ## The sales spectrum
 
-> "As the unit value of each sale goes up, there is necessarily a shift towards more people-intensive
-> processes." [CS183-09, from Blake Masters' class notes]
+As the value of each sale rises, the notes say, selling becomes more people-intensive [CS183-09]:
 
 | Deal size | Channel | Examples in the notes [CS183-09] |
 |---|---|---|
 | $1m and up (Palantir: $1m to $100m) | Complex sales, led by the founder | SpaceX, Palantir, Knewton |
 | $10k to $100k | Personal sales, a repeatable process | Yammer, ZocDoc |
-| Below that, above consumer prices | The missing middle: often no channel works | Small businesses; Intuit got accounting and tax software to them |
+| Below that, above consumer prices | The missing middle: often no channel works | Small businesses; Intuit reached them |
 | A couple of dollars and up | Marketing and advertising | Priceline, Google ads, Zynga |
 | Free or near it | Viral | PayPal, Hotmail, Dropbox |
 
-**Complex sales.** Palantir's version: "So you have forward deployed engineers double up in a sales capacity.
-Just don't call them salespeople." [CS183-09] On SpaceX: "But if you don't believe that sales grandmasters
-exist, you haven't met Elon." [CS183-09]
+**Complex sales.** Palantir's version in the notes: engineers deployed with customers who double as sellers,
+"Just don't call them salespeople." [CS183-09]
 
-**The missing middle.** "There is quite possibly a large zone in the middle in which there's actually no good
-distribution channel to reach customers." [CS183-09, from Blake Masters' class notes] **Our reading:** a $2,000
-a year product is the danger zone. Too cheap for a salesperson, too expensive to buy from an ad.
+**The missing middle.** The notes warn of "a large zone in the middle in which there's actually no good
+distribution channel to reach customers." [CS183-09, from Blake Masters' class notes]
 
-**Enterprise deal sizes.** In a later class: "It usually turns out that no customer is willing to do a deal
-that's 10x the size of your largest deal to date. Maybe 2x your biggest deal is a more realistic hope."
-[CS183-15, from Blake Masters' class notes, Thiel speaking] And: "So the strategy should be to get the smallest
-customer that is also a good reference customer." [CS183-15]
+**Our illustration, not his figure:** a product priced around a couple of thousand dollars a year often sits in
+that zone. It's too cheap to pay for a salesperson's time and too expensive for most people to buy from an ad.
+The exact boundaries depend on your sales cycle and margin; work them out with the template.
 
-> "The classic mistake people make is to indulge the fantasy that you can just get that single contract for
-> $100 million and everything will be golden." [CS183-15, from Blake Masters' class notes]
-
-**Marketing.** "To gain a significant advantage, your marketing strategy must be very hard to replicate."
-[CS183-09, from Blake Masters' class notes]
+**Enterprise deal sizes.** In a later class, per the notes, Thiel says customers rarely do a deal 10x your
+largest so far, and "Maybe 2x your biggest deal is a more realistic hope." [CS183-15, from Blake Masters' class
+notes, Thiel speaking] So start with the smallest customer who is also a good reference [CS183-15].
 
 ## Viral: PayPal's 7% a day
 
 From his own AMA: "PayPal was growing at 7%/day at the time of the launch (Oct 99-Apr 2000, from 24 users to 1
-million), and we did not fully fathom the rocket we were riding." [AMA14]
+million)" [AMA14]. In 2016 he recalled that the first users were simply the company's own staff [HAM16].
 
-How, per the class notes: "New customers got $10 for signing up, and existing ones got $10 for referrals.
-Growth went exponential, and PayPal wound up paying $20 for each new customer." [CS183-02] The team got there
-after bank deals failed: "BD didn't work. They needed organic, viral growth." [CS183-02] The notes add a caveat:
-"(Ultimately, this worked out. That does not mean it's the best way to run a company. Indeed, it probably
-isn't.)" [CS183-02]
+How, per the notes: $10 for signing up and $10 per referral, which made each customer cost about $20 [CS183-02].
+The notes add that this worked out but "probably isn't" the best way to run a company [CS183-02].
 
-**The eBay segment.** The first high-velocity segment was power buyers and sellers on eBay [CS183-09]. Once
-PayPal had them, "The eBay segment was locked in." [CS183-09] The move, per the notes: "Capturing segment one
-and making your would-be competitors scramble to think about second and third-best segments is key."
-[CS183-09, from Blake Masters' class notes]
-
-**Viral has to be built in:**
-
-> "Marketing people can't do viral marketing. You don't just build a product and then choose viral marketing.
-> There is no viral marketing add-on." [CS183-09, from Blake Masters' class notes]
-
-> "But viral marketing requires that the product's core use case must be inherently viral." [CS183-09, from
-> Blake Masters' class notes]
-
-> "If you're the first mover who is able to get a product to grow virally, no one else can catch up."
-> [CS183-09, from Blake Masters' class notes]
+The first high-velocity segment was eBay power sellers [CS183-09], the same group he describes in his own words
+in 2014 as about twenty thousand people [YCL5]. Viral, per the notes, has to be in the product: "There is no viral
+marketing add-on." [CS183-09, from Blake Masters' class notes]
 
 ## One channel, not five
 
-> "It is very likely that one channel is optimal. Most businesses actually get zero distribution channels to
-> work. Poor distribution—not product—is the number one cause of failure." [CS183-09, from Blake Masters' class
+> "Poor distribution—not product—is the number one cause of failure." [CS183-09, from Blake Masters' class
 > notes]
 
-> "If you can get even a single distribution channel to work, you have great business. If you try for several
-> but don't nail one, you're finished." [CS183-09, from Blake Masters' class notes]
-
-## Distribution can be the monopoly
-
-> "Great distribution can give you a terminal monopoly, even if your product is undifferentiated." [CS183-09,
-> from Blake Masters' class notes]
-
-Intuit is the example: "Because it nailed distribution, it's probably impossible for anyone to displace Intuit
-today." [CS183-09]
+The notes say one channel is usually optimal, most businesses get none to work, and trying several without
+nailing one is fatal [CS183-09]. Great distribution alone can even give "a terminal monopoly" [CS183-09], with
+Intuit as the example.
 
 ## Sales is hidden
 
-> "The message is that sales is hidden. Advertising is hidden. It works best that way." [CS183-09, from Blake
-> Masters' class notes]
-
-The notes illustrate it with a late-2001 lunch with IdeaLab's Bill Gross, who told a story about his son
-spreading PayPal by email, and was himself selling to the people at the table [CS183-09]. The pay gap says the
-same thing: in the notes, a software engineer at Oracle with 4 to 6 years' experience gets "a $105k salary and
-an $8k bonus" while a sales manager with the same experience gets "$112k and a $103k bonus" [CS183-09] (2012
-figures).
-
 > "If you don't see any salespeople, you are the salesperson." [CS183-09, from Blake Masters' class notes]
 
-## Distribution includes selling the company
+The notes support this with 2012 Oracle pay data: a sales manager earned a bonus roughly thirteen times an
+engineer's at the same experience level [CS183-09] (our arithmetic from the notes' figures). Distribution also
+covers selling the company to recruits, investors and the press [CS183-09].
 
-Selling to employees, investors and the press is distribution too [CS183-09]. Founders or a couple of senior
-people "should probably spend between 25% and 33% of their time identifying and attracting talent." [CS183-09]
+Users before revenue can be the right order, in his own words: "The right strategy is often to scale users
+before scaling revenues." [AMA14]
 
-Users before revenue can be right: "The right strategy is often to scale users before scaling revenues."
-[AMA14]
+---
 
-## The two questions
+## How to apply it (our reading)
 
-> "The questions you must ask are: how big is the distribution problem? And can this business solve it?"
-> [CS183-09, from Blake Masters' class notes]
+1. **Compute CLV** from real numbers: revenue per month, gross margin, and lifetime from observed churn.
+2. **Compute acquisition cost per channel,** not blended: spend in the last 90 days divided by customers it
+   brought in.
+3. **Place your yearly price on the spectrum.** Ask whether that channel's cost per sale fits under your CLV.
+4. **Pick one channel** with the best CLV-to-cost ratio and a path to scale. Stop or freeze the rest for a
+   quarter.
+5. **If you sell big deals,** set the next target at no more than about 2x your largest [CS183-15].
+6. **If you count on viral,** write the user action that necessarily brings in another user. If there isn't
+   one, it isn't viral [CS183-09].
+
+**Worked numbers (fictional).** A B2B tool charges $180 a month at 75% gross margin, and churn implies about 20
+months of lifetime: CLV is $2,700. Paid search brings customers at $1,900 (ratio 1.4). A two-person sales team
+costs $260,000 a year and closes 60 customers: $4,333 each (ratio 0.6). Partner referrals cost $700 each (ratio
+3.9) but only 5 a month. The price (about $2,160 a year) sits in what the notes call the missing middle. Our
+suggestion: freeze the sales team, push referrals to see if they scale, and keep search as the fallback.
+
+**Failure modes (our reading):**
+- **CLV from hope.** Lifetime estimated before anyone has churned.
+- **Blended CAC.** A cheap channel hides an expensive one.
+- **The missing middle, ignored.** A salesperson on a product that can't pay for one.
+- **Viral as a feature request.** An invite button on a product nobody needs to share.
+
+**Limits:** almost every rule here is from the 2012 notes, dated 2012, and labelled. The ratio thresholds in the
+template and the price illustration are ours.
 
 **Use it now:** `templates/04-distribution-math.md`.
 

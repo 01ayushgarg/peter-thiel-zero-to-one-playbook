@@ -1,123 +1,124 @@
 # 06 · The founding: get it right at the start
 
-Citation IDs are in `SOURCES.md`. Most of this chapter comes from the 2012 class "Thiel's Law" [CS183-06], which
-Thiel taught alone. All `[CS183-nn]` quotes are **from Blake Masters' class notes**, not a transcript. In
-CS183-05 and CS183-07, guests spoke; their views are named as theirs. Numbers are as of 2012.
+Citation IDs are in `SOURCES.md`. **Most of this chapter comes from Blake Masters' notes of the 2012 class
+"Thiel's Law" [CS183-06],** which Thiel taught alone. They are labelled on every quote and are not a transcript.
+His own later words are used where they exist ([AMA14], [CWT15], [HAM16]). In CS183-05 and CS183-07, guests
+spoke; their views are named as theirs. **All numbers and rules are as of 2012** and were written for US
+venture-backed startups.
 
 ## Thiel's law
 
 > "A startup messed up at its foundation cannot be fixed." [CS183-06, from Blake Masters' class notes]
 
-> "The insight that foundings are crucial is what is behind the Founders Fund name." [CS183-06, from Blake
-> Masters' class notes]
-
-How long the founding lasts, in the notes: "Founders should arguably stay in charge as long as the paradigm
-remains 0 to 1. Once the paradigm shifts to 1 to n, the founding is over." [CS183-06]
+The notes say the founding lasts while the company is still going from 0 to 1, and ends when it shifts to 1 to n
+[CS183-06].
 
 ## Cofounders: the factor that dominates
 
-> "In this calculus, one factor dominates all others. That factor is whether the founders are aligned with each
-> other." [CS183-06, from Blake Masters' class notes]
+Per the notes, one factor dominates the founding: "whether the founders are aligned with each other." Fissures
+in the team get amplified later, which makes the founding team "the single most important question in assessing
+an early startup." [CS183-06, from Blake Masters' class notes]
 
-> "Any fissures in the founding team will be amplified later on." [CS183-06, from Blake Masters' class notes]
+**Ask about the prehistory.** His own words, 2015: "what's the prehistory of this company? How did you meet, how
+long have you been working together" [CWT15]. The notes' version of the warning is a failed 1998 investment in
+founders who had met at a networking event, likened to marrying someone you just met at the slot machines
+[CS183-06].
 
-> "The question of the founding team is thus the single most important question in assessing an early
-> startup." [CS183-06, from Blake Masters' class notes]
+**How many, and how to split.** In his own words, 2014: "I am still a fan of the two-person founding team, with
+one more on the business side and one more on the technical side." [AMA14] On equity: "No hard and fast rules,
+but if you don't want to split shares evenly then perhaps you should not be co-founders." [AMA14]
 
-**Don't marry at the slot machines.** The notes recall an early investment he made in 1998 in a company Luke
-Nosek co-founded with someone he'd met at a networking event; it failed. The line: "But getting married to the
-first person you meet at the slot machines in Vegas probably doesn't." [CS183-06, from Blake Masters' class
-notes]
+**Committed founders.** Asked about ambitious science ventures, he said he likes "a group of really committed
+founders with a clear vision of what they're trying to do" and worries about ventures led by part-time professors
+[AMA14]. The notes record the earlier version of the same rule: he passed on YouTube in 2005 because the founders
+were part-time [CS183-06].
 
-**Ask about the prehistory.** In his own words: "what's the prehistory of this company? How did you meet, how
-long have you been working together, and if there's a long prehistory, that would be good on the other side."
-[CWT15]
-
-**How many, and how to split.** "I am still a fan of the two-person founding team, with one more on the
-business side and one more on the technical side." [AMA14] On equity: "No hard and fast rules, but if you don't
-want to split shares evenly then perhaps you should not be co-founders." [AMA14] In the 2012 notes: "A core
-founding team of two people with equal shares tends to work very well." [CS183-07, from Blake Masters' class
-notes, Thiel speaking]
-
-**Why more than one founder is safer.** "But the really decisive difference between one founder and more is
-that with multiple founders, it's much harder to isolate a scapegoat." [CS183-18, from Blake Masters' class
-notes]
-
-## Full-time, or nothing
-
-The notes say he didn't invest in YouTube in summer 2005 "because all the guys were working on it part-time."
-[CS183-06, Masters' wording] Part-time founders, consultants and remote halves of a team are all
-misalignment. On consultants: "But you should never hire any consultants." [CS183-06, from Blake Masters'
-class notes]
+**Why more than one founder is safer,** per the notes: with several founders it's "much harder to isolate a
+scapegoat." [CS183-18, from Blake Masters' class notes]
 
 ## Ownership, possession, control
 
-The notes split it three ways [CS183-06]: ownership (who holds equity), possession (who runs the company day to
-day) and control (who governs it). The danger is in control: "Control lies with the various people you put on
-your board, most of whom really don't know your business that well." [CS183-06, from Blake Masters' class
-notes]
+The notes split it three ways: who owns the equity, who runs the company day to day, and who governs it. The
+danger is control, which sits with board members "most of whom really don't know your business that well."
+[CS183-06, from Blake Masters' class notes]
 
 ## The board: small
 
-The typical board in 2012, per the notes, is two VCs, one independent director and two founders: five people,
-which the notes call "a pretty large board" [CS183-06].
+The notes describe a typical 2012 board of five (two VCs, an independent, two founders) and say: "The ideal board
+is probably three people: one VC and two founders." [CS183-06, from Blake Masters' class notes] A later class
+repeats it [CS183-10].
 
-> "The ideal board is probably three people: one VC and two founders." [CS183-06, from Blake Masters' class
-> notes]
+**When the rule applies (our reading):** it's a 2012 heuristic for a seed or Series A company. It assumes two
+founders who agree and one lead investor. With three founders, several lead investors or a regulated business,
+the number changes, but the principle (small, and controlled by people who know the business) still holds.
 
-He repeated it in a later class: "If you want board to do things effectively, it should be small. Three people
-is the best size." [CS183-10, from Blake Masters' class notes, Thiel speaking]
-
-How a board can feel to a founder: "You might conceive of every board meeting as a trial. At best, the board is
-jury (though probably not of your peers). At worst, it is a mob and is looking to make you the sacrificial
-victim." [CS183-18, from Blake Masters' class notes]
-
-## Cash compensation: the $150k rule
+## Cash compensation: the $150k rule (2012)
 
 > "A categorical rule of thumb that Founders Fund has developed is that no CEO should be paid more than $150k
 > per year." [CS183-06, from Blake Masters' class notes, 2012]
 
-> "If the answer is more than $150k, do not invest." [CS183-06, from Blake Masters' class notes]
+The notes' reasoning: low pay is incentive alignment; a CEO who is paid a lot has a reason to keep the present
+going rather than build the future [CS183-06].
 
-> "Low pay is simply good incentive alignment." [CS183-06, from Blake Masters' class notes]
+**When the rule applies (our reading):** it's Founders Fund's 2012 rule for venture-backed startups, in 2012
+dollars, before housing costs in the Bay Area rose further. Treat it as *CEO pay well below market and below the
+best engineers*, not as a fixed number. Adjust for your city, year and family situation, and keep the gap to
+market large.
 
-**Our reading:** a CEO on a big salary is optimizing the present. A CEO on a small one only wins if the equity
-is worth something.
+His own later line on pay is about monopoly, not salary caps: paying above market works, "but you need a
+monopoly for this to work in practice." [AMA14] Keep pay private too: the notes have him calling a company-wide
+pay list a "nuclear bomb" [CS183-05, from Blake Masters' class notes, Thiel speaking].
 
-Keep pay private: "The surest way to blow up a company is with a nuclear bomb: send out an e-mail to everybody
-that lists what each person is getting paid." [CS183-05, from Blake Masters' class notes, Thiel speaking]
+## Equity and vesting (2012)
 
-## Equity and vesting
+The notes give the 2012 standard [CS183-06]: four years, 25% at a one-year cliff, then monthly for three years.
+Founders "might have 20-25% vest as credit for the work they've done up to the first round of financing."
+[CS183-06, from Blake Masters' class notes]
 
-> "What matters is your share of the company. This is 3rd grade arithmetic." [CS183-06, from Blake Masters'
-> class notes]
+**When the rule applies (our reading):** this was the common US venture standard in 2012 and is still common.
+It assumes full-time founders and a priced round. Founders who joined at different times, or advisors, need
+different schedules.
 
-Vesting, per the notes: "The standard is to have it vest over 4 years, with 25% vesting at a 1 year cliff, and
-then with 1/48th vesting each month for the 3 years after that." [CS183-06] Founders "might have 20-25% vest as
-credit for the work they've done up to the first round of financing." [CS183-06]
+**When investors own too much.** The notes recall a cleantech deal where founders and employees held about 20%
+and investors 80%, and Thiel asking how a team that got run over by investors would fare against the world
+[CS183-05].
 
-Early equity can matter more than seniority: "At eBay, secretaries might have made 100x what their Stanford MBA
-bosses because they joined three years earlier." [CS183-06, from Blake Masters' class notes]
+## Financing terms (2012 notes)
 
-**When investors own too much.** In a cleantech deal Founders Fund looked at, "It turned out that the founders
-and employees owned about 20% of the company. Other VC firms owned 80%." [CS183-05] The question it raised:
-"If you got run over so hard by investors, how are you going to fare against the entire world?" [CS183-05, from
-Blake Masters' class notes, Thiel speaking]
-
-## Financing terms
-
-From the 2012 notes [CS183-06]:
-- **Set up right:** "You should set up as a Delaware C corporation. That is the right answer."
-- **Preferences:** "So the best arrangement tends to be 1x preference, non-participating."
-- **Down rounds:** "If there is one categorical rule, it's that you should never ever have a down round."
-  And: "Companies are essentially broken the day they have a down round."
-- **Dilution:** "If you have north of 10% after many rounds of financing, that's generally a very good
-  outcome. Dilution is relentless." For scale: "The Google founders had 15.6% of the company at IPO."
+From the notes [CS183-06], paraphrased: set up as a Delaware C corporation; prefer a 1x non-participating
+preference; avoid down rounds ("Companies are essentially broken the day they have a down round"); and expect
+dilution, since keeping more than 10% after many rounds is a good outcome.
 
 ## Trust and structure
 
 > "The ideal is the combination of high trust people with a structure that provides a high degree of
 > alignment." [CS183-06, from Blake Masters' class notes]
+
+---
+
+## How to apply it (our reading)
+
+1. **Write the prehistory** of each founder pair: when you met, what you built together, how long. Under a year
+   with nothing built is a flag.
+2. **Check full-time status.** Anyone part-time is an advisor until they're full-time.
+3. **Set vesting for everyone,** founders included, with any credit for past work written down.
+4. **Map control:** list board seats after the next round. Count who wins a 2-to-1 vote.
+5. **Set CEO pay** below market and below your best engineer, then write down why.
+6. **Model dilution** through three rounds to see what the founders will own.
+
+**Worked numbers (fictional).** Two founders, 50/50, one year together. A seed investor asks for 20% and one
+board seat, plus an independent. Our suggestion: three seats (two founders, one investor) and no independent until
+Series A. Dilution: 20% at seed, 20% at Series A, a 10% option pool top-up, and 15% at Series B leaves the
+founders with about 49% together, 24.5% each. That's a healthy path by the notes' standard.
+
+**Failure modes (our reading):**
+- **Equity as a thank-you.** Giving founder shares to an advisor or a part-timer.
+- **A board you can't explain.** If you can't say who wins a disagreement, it's the wrong board.
+- **Pay rules copied without the context.** A 2012 number used in 2026 without thinking.
+- **Vesting skipped *because we trust each other*.** Trust plus structure, per the notes.
+
+**Limits:** this chapter is mostly notes, dated 2012, and the rules were Founders Fund heuristics for its own
+investing. Get legal and tax advice for your jurisdiction.
 
 **Use it now:** `templates/05-founding-checklist.md`.
 

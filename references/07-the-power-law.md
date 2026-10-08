@@ -1,91 +1,101 @@
 # 07 · The power law
 
-Citation IDs are in `SOURCES.md`. The core of this chapter is the 2012 class "Follow the Money" [CS183-07]. All
-`[CS183-nn]` quotes are **from Blake Masters' class notes**, not a transcript. Guests Roelof Botha and Paul
-Graham joined that class; only lines the notes give to Thiel are used as his.
+Citation IDs are in `SOURCES.md`. **The core of this chapter is Blake Masters' notes of the 2012 class "Follow
+the Money" [CS183-07],** labelled on each quote and not a transcript. Guests Roelof Botha and Paul Graham joined
+that class; only lines the notes give to Thiel are used as his. His own later words come from [AMA14], [YCL5]
+and [CWT15].
 
-> "It is far and away the most important structural element of venture capital: exponential power." [CS183-07,
-> from Blake Masters' class notes]
+The notes call it "the most important structural element of venture capital: exponential power." [CS183-07,
+from Blake Masters' class notes]
 
 ## Returns are not normal
 
-> "But that model misses the key insight that actual returns are incredibly skewed." [CS183-07, from Blake
-> Masters' class notes]
-
-**Founders Fund, 2005 fund:** "the best investment ended up being worth about as much as all the rest combined."
-[CS183-07, from Blake Masters' class notes] The second best was worth about as much as everything from the
-third down [CS183-07].
-
-> "We vastly underestimate exponential things." [CS183-07, from Blake Masters' class notes]
+Per the notes, Founders Fund's 2005 fund had one investment worth about as much as all the rest combined, and
+the second best was worth about as much as everything from the third down [CS183-07]. The line: "We vastly
+underestimate exponential things." [CS183-07, from Blake Masters' class notes]
 
 ## One company has to return the fund
 
-> "To a first approximation, a VC portfolio will only make money if your best company investment ends up being
-> worth more than your whole fund." [CS183-07, from Blake Masters' class notes]
+> "a VC portfolio will only make money if your best company investment ends up being worth more than your whole
+> fund." [CS183-07, from Blake Masters' class notes]
 
-**The PayPal case**, per the notes: PayPal sold to eBay for $1.5bn. Its early investors' stake "was ultimately
-worth about the size of their fund", and since the rest of their portfolio did badly, they roughly broke even.
-PayPal's series B investors did well on PayPal but "didn't break even on their fund." [CS183-07]
+The PayPal case in the notes: it sold to eBay for $1.5bn, and its early investors' stake was worth about the
+size of their fund, so with the rest of their portfolio doing badly they roughly broke even [CS183-07]. The
+question for every investment, per the notes: is there a reasonable scenario where the stake is worth more than
+the whole fund? [CS183-07]
 
-The question to ask of every investment, in the notes: "Is there a reasonable scenario where our stake in this
-company will be worth more than the whole fund?" [CS183-07]
+Concentration follows, per the notes: 7 to 10 companies per fund, each with a shot at a 10x return [CS183-07].
 
-## Concentrate
+## The investment decision is the work
 
-> "A better model is to invest in maybe 7 or 8 promising companies from which you think you can get a 10x
-> return." [CS183-07, from Blake Masters' class notes]
+His own words, 2014: "the act of making the investment (rather than the ability to fix things later) remains by
+far the most important thing we do." [AMA14] He adds that investors can only do so much to help afterwards
+[AMA14].
 
-Spreading wider "starts looking less like investing and more like buying lottery tickets." [CS183-07] Founders
-Fund, per the notes, "tries to invest in 7 to 10 companies per fund. The goal is to get to 10x return."
-[CS183-07]
+## The Facebook bet, lightly
 
-> "It's about as hard to get from $10m to $100m as it is from $100m to $1bn or $1bn to 10bn." [CS183-07, from
-> Blake Masters' class notes]
+What the sources say, and no more:
+- **The first check.** NPR's introduction calls him Facebook's first outside investor [NPR14]; the WSJ bio says
+  the same [WSJ14].
+- **Why the market was worth owning.** His own story of Facebook's start is a small market taken fast: about ten
+  thousand people at Harvard [YCL5]. On durability, he credits it with being "the first one to get real
+  identity" [YCL5].
+- **His biggest miss.** "Biggest mistake ever was not to do the Series B round at Facebook." [AMA14] His lesson:
+  "Whenever a tech startup has a strong up round led by a top tier investor (Accel counts), it is generally still
+  undervalued." [AMA14]
 
-**The investment decision is the work.** In his own words, 2014: "the act of making the investment (rather than
-the ability to fix things later) remains by far the most important thing we do." [AMA14]
-
-**His biggest miss, in his words:** "Biggest mistake ever was not to do the Series B round at Facebook." [AMA14]
-The lesson he draws: "Whenever a tech startup has a strong up round led by a top tier investor (Accel counts),
-it is generally still undervalued. The steeper the up round, the greater the undervaluation." [AMA14]
+**Our reading:** even an early investor underrated how far the winner would run. That's the power law's point:
+the error that costs most is selling or skipping the outlier, not losing on the others.
 
 ## What it means for founders
 
-**One revenue source will dominate.** "The power law distribution on revenues says that one source of revenue
-will dominate everything else." [CS183-07, from Blake Masters' class notes, Thiel speaking] And: "Making money
-with A is key. Making money with A through E is terrifying, from an investor's perspective." [CS183-07]
+**One revenue source will dominate,** per the notes, Thiel speaking: "Making money with A is key. Making money
+with A through E is terrifying, from an investor's perspective." [CS183-07]
 
-**Don't pitch a small exit.** "It would raise a big red flag if you were to put a slide at the end of your deck
-that says you're looking to sell the company for $20m in 18 months." [CS183-07, from Blake Masters' class notes]
+**Don't pitch a small exit.** The notes give the example of a closing slide that promises a $20m sale in 18
+months as a red flag [CS183-07].
 
-**Dilution for dominance.** "Giving up 25% of your business is worth it if it enables you to take over your
-industry." [CS183-07, from Blake Masters' class notes]
+**Dilution for dominance.** Giving up a quarter of the company can be worth it if it lets you take over the
+industry [CS183-07].
 
-**Money as the motive works against you.** "Paradoxically, people who are heavily motivated by money are never
-the ones who make the most money in the power law world." [CS183-07, from Blake Masters' class notes]
+**Pick the company, not the role.** The notes say the 100th employee at Google did better than the average
+venture-backed CEO of the decade [CS183-07], and that it's important to join the single best company you can
+[CS183-10].
 
-## Apply it to your own decisions
+**But you are not a lottery ticket.** "The thesis is that you are just a lottery ticket. That is wrong."
+[CS183-07, from Blake Masters' class notes] See chapter 08.
 
-> "The skew of distributions for tech startups is really vast." [CS183-07, from Blake Masters' class notes]
+---
 
-**Which company you join matters more than your title or your percentage:** "But the 100th employee at Google
-did much better than the average venture-backed CEO did in the last decade." [CS183-07, from Blake Masters'
-class notes] A later class says it directly: "If there is indeed a power law distribution in company outcomes,
-it's really important to get into the single company you think is the best." [CS183-10, from Blake Masters'
-class notes, Thiel speaking]
+## How to apply it (our reading)
 
-**Know one big thing.** On Isaiah Berlin's fox and hedgehog: "But in business, it's better to be a hedgehog if
-you have to choose between the two." [CS183-07, from Blake Masters' class notes]
+He applies the power law to funds. The extension to a founder's own choices is ours.
 
-**But you are not a lottery ticket.** The power law isn't a reason to treat yourself as one draw among many:
-"The thesis is that you are just a lottery ticket. That is wrong." [CS183-07, from Blake Masters' class notes]
-See chapter 08.
+1. **List every revenue line, channel and project** with its share of results last quarter.
+2. **Sort by share.** In most companies the top one is far ahead. If it isn't, ask whether you've found the one
+   that matters yet.
+3. **Give the top item most of the time,** for example two thirds of the team's effort, and set a stop date for
+   the bottom half.
+4. **Ask the fund question of your own company:** is there a believable scenario where it's worth more than all
+   the money put into it, combined? If not, rethink the market (chapter 02) before raising.
+5. **For a career choice,** rank companies by their chance of being the outlier, not by title or salary.
 
-**Our reading:** apply the power law three times. To the market you pick (one market, owned). To your
-distribution (one channel that works, chapter 05). To your time (the one thing that matters most this quarter).
+**Worked numbers (fictional).** A 30-person company has five revenue lines: API usage 61%, enterprise licences
+22%, consulting 9%, a marketplace 5%, training 3%. Effort is spread evenly. Our suggestion: put two thirds of
+engineering on the API, keep licences as the cash line, and stop consulting, the marketplace and training within
+two quarters. The 17% of revenue lost is the price of focus; the bet is that the API line grows faster with the
+freed team than the three small lines would have.
 
-**Use it now:** the power-law questions in `templates/03-monopoly-scorecard.md` and
-`references/11-the-questions.md`.
+**Failure modes (our reading):**
+- **Diversification as safety.** Five half-working lines feel safer and are usually weaker.
+- **Cutting the outlier early.** Selling the winner, or skipping the next round, as with his Facebook miss.
+- **Applying the power law to people.** It describes outcomes, not a reason to treat your team as lottery
+  tickets (chapter 08).
+
+**Limits:** the fund figures are Founders Fund's as reported in the 2012 notes. The founder-side applications
+and the two-thirds split are ours.
+
+**Use it now:** `templates/03-monopoly-scorecard.md` (power-law questions) and `templates/09-definite-plan.md`.
 
 **Checks to run:**
 1. Is there a credible path for this company to be worth more than everyone's whole investment in it combined?
