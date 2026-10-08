@@ -1,6 +1,6 @@
 ---
 name: peter-thiel-zero-to-one-playbook
-description: Run a Peter Thiel-style strategy session on a startup or idea (the contrarian question, the market reality check, the monopoly scorecard, last mover durability, distribution math and the founding), using only his own lectures, essays and interviews plus Blake Masters' labelled notes of his 2012 Stanford class, with every point cited. Use when someone wants to test whether an idea is a real secret, size a market honestly, find out if they're in a competitive trap, judge whether a company can become a durable monopoly, check CLV against acquisition cost, set up cofounders, equity and board, or asks "what would Peter Thiel say". Triggers on "zero to one", "competition is for losers", "contrarian question", "what important truth", "what valuable company is nobody building", "secrets", "monopoly", "last mover", "10x better", "network effects", "power law", "definite optimism", "Thiel's law", "is my market too small", "is my market too big", "what would Thiel do".
+description: Run a Peter Thiel-style strategy session on a startup or idea (the contrarian question, the market reality check, the monopoly scorecard, last mover durability, distribution math and the founding), using only his own lectures, essays and interviews plus Blake Masters' labelled notes of his 2012 Stanford class, with every point cited. Use when someone wants to test whether an idea is a real secret, size a market honestly, find out if they're in a competitive trap, judge whether a company can become a durable monopoly, check CLV against acquisition cost, set up cofounders, equity and board, or asks "what would Peter Thiel say". Triggers on "zero to one", "competition is for losers", "contrarian question", "what important truth", "what valuable company is nobody building", "secrets", "monopoly", "last mover", "10x better", "network effects", "power law", "definite optimism", "Thiel's law", "is my market too small", "is my market too big", "what would Thiel do", "bits vs atoms", "stagnation", "should I drop out", "am I on a track".
 ---
 
 # Peter Thiel's Zero to One Playbook
@@ -10,23 +10,27 @@ companies: find a secret, own a small market, make it last, and get the founding
 recorded words and Blake Masters' notes of his 2012 Stanford class. Who he is, for this playbook:
 `references/00-who-is-peter-thiel.md`.
 
-> "I sort of have a single idée fixe that I'm completely obsessed with on the business side which is that if
-> you're starting a company, if you're the founder, entrepreneur, starting a company you always want to aim for
-> monopoly and you want to always avoid competition." [YCL5]
+His one business obsession: "you always want to aim for monopoly and you want to always avoid competition."
+[YCL5]
 
 ## Ground rules for the agent
 
 - Every point cites a source ID (e.g. `[YCL5]`, `[WSJ14]`, `[CS183-09]`, see `SOURCES.md`). **Never put words
   in his mouth.** If the playbook doesn't cover something, say so.
-- **Two kinds of source.** `[YCL5]`, `[WSJ14]`, `[NPR14]`, `[CWT15]`, `[AMA14]`, `[NR11]`, `[CWT24]` are his own
-  words. `[CS183-nn]` are Blake Masters' near-verbatim notes, not a transcript. Always label them as from Blake
+- **Two kinds of source.** `[YCL5]`, `[WSJ14]`, `[NPR14]`, `[WBUR14]`, `[FQA14]`, `[CWT15]`, `[AMA14]`, `[FS12]`,
+  `[NR11]`, `[NYT15]`, `[HAM16]`, `[CWT24]` are his own words (`[WBUR14]` is a partial, machine-assisted
+  transcript). `[FF11]` is Bruce Gibney's manifesto and is never quoted as Thiel. `[CS183-nn]` are Blake Masters' near-verbatim notes, not a transcript. Always label them as from Blake
   Masters' class notes when quoting them.
 - **Guests aren't Thiel.** Some classes had guests (Levchin, Cohen, Botha, Graham, Andreessen, Hoffman and
   others). CS183-08 was given by Bruce Gibney. Never present their views as his.
 - **Zero to One (the book) is not a source.** Only lines from its published WSJ excerpt [WSJ14] are quoted.
-- Quote briefly and exactly. Paraphrases and applications to the founder's company are labelled as our reading.
+- Quote briefly and exactly (never more than a sentence or two). Paraphrases, thresholds, process steps and
+  applications to the founder's company are labelled as our reading or our suggestion.
+- **2012 rules come with conditions.** The $150k CEO pay rule, the three-person board and the vesting standard
+  are 2012 Founders Fund heuristics for US venture-backed startups. Say so when you use them.
 - Dated numbers stay dated: in 2012, as of May 2014, PayPal in March 2001.
-- **Not covered:** his politics. Decline to use this skill for political questions.
+- **Not covered:** his politics. Decline to use this skill for political questions. Where his stagnation
+  argument turns to regulation or politics, name the blocker as a fact to plan around and don't argue it.
 - He warns against formulas: "If I give you some general answer, and everybody could follow it, then if everybody
   followed that answer, it would be the wrong thing to do." [CWT15] Use the questions to sharpen the founder's
   thinking, not to hand them a template answer. If the honest conclusion is that this may not be a good business
@@ -47,13 +51,16 @@ recorded words and Blake Masters' notes of his 2012 Stanford class. Who he is, f
 
 ## Step 2: The contrarian question
 
-Ask both versions and push for a specific answer [NPR14, WSJ14]:
+Ask both versions and push for a specific answer [NPR14, WSJ14]. If the founder has no idea yet, run the frontier
+scan first (`references/12-stagnation-atoms-and-frontiers.md`, `templates/07-frontier-scan.md`):
 - "tell me something that is true that very few people agree with you on" [NPR14]
 - "What valuable company is nobody building?" [WSJ14]
 
 Then classify the answer (`references/01-zero-to-one-and-secrets.md`): a convention (everyone agrees), a
 secret (true, important, unpopular, findable) or a trend (a big wave everyone sees [AMA14]). Run the mimesis
 check (`references/09-mimesis-and-thinking-for-yourself.md`): is it attractive because others are doing it?
+If the founder's own choices look like a track, use `references/13-tracks-credentials-and-the-fellowship.md` and
+`templates/08-track-audit.md`.
 
 ## Step 3: The market reality check
 
@@ -78,7 +85,8 @@ could overtake each advantage. → `references/04-last-mover-and-durability.md`,
 
 ## Step 6: Distribution
 
-Compute CLV vs acquisition cost [CS183-09]. Place the price on the sales spectrum and flag the missing middle
+Compute CLV vs acquisition cost [CS183-09]. If lifetime is estimated from a few young customers, give CLV as a
+range. Place the price on the sales spectrum and flag the missing middle
 [CS183-09]. Push for **one** channel that works [CS183-09]. → `references/05-distribution.md`,
 `templates/04-distribution-math.md`
 
@@ -88,8 +96,9 @@ Check cofounder history and alignment, equity split, vesting, board size and CEO
 rules [CS183-06] and his own answers [AMA14, CWT15]. → `references/06-the-founding.md`,
 `references/10-founders-and-teams.md`, `templates/05-founding-checklist.md`
 
-Use `references/07-the-power-law.md` and `references/08-definite-optimism-and-planning.md` when the founder is
-spreading effort across many markets, channels or revenue lines, or has no plan beyond iterating.
+Use `references/07-the-power-law.md` and `references/08-definite-optimism-and-planning.md` (with
+`templates/09-definite-plan.md`) when the founder is spreading effort across many markets, channels or revenue
+lines, or has no plan beyond iterating.
 `references/11-the-questions.md` is the full question bank.
 
 ## Step 8: Deliver the strategy session notes
@@ -137,4 +146,5 @@ Rules for the notes:
 
 Templates for the founder: `templates/01-secret-and-contrarian-truth.md`, `templates/02-market-reality-check.md`,
 `templates/03-monopoly-scorecard.md`, `templates/04-distribution-math.md`, `templates/05-founding-checklist.md`,
-`templates/06-ten-year-test.md`. A full example: `examples/01-worked-session.md`.
+`templates/06-ten-year-test.md`, `templates/07-frontier-scan.md`, `templates/08-track-audit.md`,
+`templates/09-definite-plan.md`. A full example: `examples/01-worked-session.md`.
