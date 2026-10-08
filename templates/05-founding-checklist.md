@@ -20,9 +20,10 @@ are dated 2012.
 ## 2 · Equity and vesting
 
 - [ ] Delaware C corporation (the notes: "That is the right answer." [CS183-06])
-- [ ] Founder vesting in place. Standard per the notes: 4 years, 25% at a 1-year cliff, then monthly; founders
-  may get 20 to 25% credit for prior work [CS183-06]
-- [ ] Option pool sized for the next 12 to 18 months of hires
+- [ ] Founder vesting in place. Standard per the 2012 notes: 4 years, 25% at a 1-year cliff, then monthly;
+  founders may get 20 to 25% credit for prior work [CS183-06]. Applies to full-time founders in a priced US
+  venture round; advisors and late joiners need their own schedule (our reading)
+- [ ] Option pool sized for the next 12 to 18 months of hires (our suggestion, not from the sources)
 - [ ] Founders and employees together own a clear majority after this round (the notes describe a deal where
   they held about 20% and investors 80%, and why that was a problem [CS183-05])
 - [ ] No down rounds planned around (the notes: "never ever have a down round" [CS183-06])
@@ -33,7 +34,7 @@ are dated 2012.
 | Question | Answer |
 |---|---|
 | Board size today | |
-| Target: 3 (one investor, two founders) per the notes [CS183-06] | |
+| Target: 3 (one investor, two founders) per the 2012 notes [CS183-06]. A seed or Series A heuristic that assumes two aligned founders and one lead investor (our reading) | |
 | Who controls the board in a disagreement? | |
 | Does every board member know the business? | |
 
@@ -41,12 +42,12 @@ are dated 2012.
 
 | Role | Cash salary | Equity | Notes |
 |---|---|---|---|
-| CEO | | | Founders Fund's 2012 rule: no CEO over $150k [CS183-06] |
+| CEO | | | Founders Fund's 2012 rule: no CEO over $150k [CS183-06], in 2012 US dollars. Our reading: treat it as well below market, adjusted for city and year |
 | Other founders | | | |
 | First employees | | | |
 
 - [ ] Salaries are private (the notes: an email listing everyone's pay is "a nuclear bomb" [CS183-05])
-- [ ] Pay is low enough that equity is the main reason to be here
+- [ ] Pay is low enough that equity is the main reason to be here (our reading of [CS183-06])
 
 ## 5 · Team and culture
 

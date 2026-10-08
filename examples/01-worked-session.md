@@ -37,8 +37,9 @@ industry treats unpaid detention as a cost of doing business. The human side: sh
 their docks are slow. The notes' test fits: "What secrets is nature not telling you? What secrets are people not
 telling you?" [CS183-11, from Blake Masters' class notes]
 
-**Mimesis check:** they didn't pick it because it's fashionable. Freight tech was out of fashion with investors
-when they started. → `09-mimesis-and-thinking-for-yourself.md`
+**Mimesis check (our reading, on the fictional facts):** they didn't pick it because it's fashionable. In this
+invented scenario, freight tech was out of fashion with their investors when they started. →
+`references/09-mimesis-and-thinking-for-yourself.md`
 
 ### Step 3 · The market reality check
 
@@ -100,12 +101,17 @@ the session: because every detention dispute in cold-chain freight will be settl
 |---|---|
 | Revenue per customer per month | $1,550 |
 | Gross margin | 80% |
-| Lifetime (months, from churn so far) | 40 |
+| Lifetime (months, assumed; see caveat) | 40 |
 | **CLV** | **$49,600** |
 | Cost to acquire | $9,000 |
 | CLV ÷ cost | 5.5 |
 
-"you build a great business if CLV > CPA" [CS183-09, from Blake Masters' class notes]. Healthy.
+"you build a great business if CLV > CPA" [CS183-09, from Blake Masters' class notes]. Healthy on paper.
+
+**Caveat (our reading):** with 11 customers, the oldest a year or so old, a 40-month lifetime can't be measured;
+it's an assumption from about 2.5% monthly churn in a short window. One lost customer would move it a lot. At a
+20-month lifetime, CLV is $24,800 and the ratio is 2.8, still above 1 but no longer comfortable. Treat CLV as a
+range until there are at least two years of cohorts.
 
 **Spectrum position:** about $18,600 a year, the low end of personal sales ($10k to $100k in the notes
 [CS183-09]). Above that sits complex sales; below it, the missing middle. **Trade shows are the wrong channel**
@@ -151,7 +157,8 @@ the trailer. · **Verdict:** secret
 - ~70% of value after year 10 · Last mover via the shipper dock-wait dataset · Threat: telematics bundling
 
 ## Distribution
-- CLV $49,600 vs cost $9,000 · Personal sales, low end · The one channel: factoring partners
+- CLV $49,600 (assumed 40-month lifetime; $24,800 at 20 months) vs cost $9,000 · Personal sales, low end · The
+  one channel: factoring partners
 
 ## Founding
 - Flags: 4-month cofounder history, part-time founder at 15%, uneven split, 5-person board, $190k CEO salary
@@ -164,9 +171,11 @@ the trailer. · **Verdict:** secret
 **The question to answer next:** why won't a telematics provider bundle this for free?
 
 ## Where to be careful
-- Board size, CEO pay and vesting rules come from 2012 class notes, not his own words. Treat them as strong
-  defaults.
+- Board size, CEO pay and vesting rules come from 2012 class notes, not his own words, and are dated 2012. They
+  were Founders Fund heuristics for US venture-backed startups; the $150k figure is in 2012 dollars. Treat them
+  as strong defaults, not fixed rules.
 - The DCF inputs are guesses. The point is the shape (most value after year 10), not the number.
+- The 40-month lifetime is an assumption from 11 young customers, not a measurement.
 ```
 
 ## The result (invented)
