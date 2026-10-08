@@ -4,7 +4,7 @@ Every question he asks, in one place, each with its source. Questions in quotati
 class notes' wording, where labelled). Questions without quotation marks are our condensed version of a point he
 makes, with the source next to it.
 
-`[YCL5]`, `[WSJ14]`, `[NPR14]`, `[CWT15]`, `[AMA14]` are Thiel's own words. `[CS183-nn]` are **Blake Masters'
+`[YCL5]`, `[WSJ14]`, `[NPR14]`, `[CWT15]`, `[AMA14]`, `[FQA14]`, `[HAM16]`, `[FS12]` are Thiel's own words. `[CS183-nn]` are **Blake Masters'
 class notes** of the 2012 course, not a transcript.
 
 ## The contrarian questions
@@ -69,6 +69,16 @@ class notes** of the 2012 course, not a transcript.
 | 31 | "Is this war even worth fighting?" | [CS183-12, from Blake Masters' class notes] |
 | 32 | "Is it actually good for society? Or is it simply approved of by society?" | [CS183-14, from Blake Masters' class notes] |
 
+## The frontier and track questions (new in v2)
+
+| # | Question | Source |
+|---|---|---|
+| 35 | Is this in the world of bits, the world of atoms, or at the boundary? He sees the most natural openings "at the boundary of information technology on atoms" | [CWT15] |
+| 36 | If you're a large company with idle cash, what new thing would you spend it on? (Our condensed version of his challenge to Google) | [FS12] |
+| 37 | Is your plan "a plan for the future" or "an alibi for the present"? | [HAM16] |
+| 38 | Are you on a track because you chose it, or because it was the next competition? | [HAM16], [FQA14] |
+| 39 | If you went to college or are choosing a credential, did you think hard about why? | [NPR14] |
+
 ## The investor's question
 
 | # | Question | Source |
@@ -99,8 +109,11 @@ CS183-08 (The Pitch) was given by Bruce Gibney of Founders Fund, not Thiel. His 
 you are a company, not just a product/feature?" and "Why is it not likely to be displaced for some time?"
 [CS183-08, Gibney's lecture, from Blake Masters' class notes]. Useful, but not Thiel's.
 
+**How to use the bank (our suggestion):** don't answer all 39. Pick the five that make you most uncomfortable,
+answer each in one sentence with a number where one applies, and show the answers to someone who will disagree.
+
 **Use it now:** every template in `templates/` draws on this bank. The full session in `SKILL.md` uses 1, 2, 9,
-10, 14 to 17, 20, 22 and 24 to 26 as its core.
+10, 14 to 17, 20, 22 and 24 to 26 as its core, and 35 to 39 when the founder is choosing what to work on.
 
 **Checks to run:**
 1. Which of these questions can you answer in one sentence, with a number where one applies?
