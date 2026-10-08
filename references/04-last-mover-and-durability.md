@@ -1,37 +1,32 @@
 # 04 · Last mover: durability beats growth
 
-Citation IDs are in `SOURCES.md`. `[CS183-nn]` quotes are **from Blake Masters' class notes**, not a transcript.
+Citation IDs are in `SOURCES.md`. `[YCL5]` and `[FS12]` are Thiel's own words. `[CS183-nn]` quotes are **from
+Blake Masters' class notes**, not a transcript.
 
-> "Now the critical thing about these monopolies is it's not enough to have a monopoly for just a moment. The
-> critical thing is have one that lasts over time" [YCL5]
+A monopoly for a moment isn't enough; the critical thing, he says, is to have one that lasts [YCL5].
 
 ## First mover vs last mover
 
-> "in Silicon Valley there is always this sort of idea that you want to be the first mover and I always think in
-> some ways the better framing is you want to be the last mover." [YCL5]
+> "the better framing is you want to be the last mover." [YCL5]
 
-> "Microsoft was the last operating system, at least for many decades. Google was the last search engine.
-> Facebook will be valuable if it turns out to be the last of social networking site." [YCL5]
+His examples [YCL5]: Microsoft was the last operating system for decades, Google the last search engine, and
+Facebook would be valuable if it turned out to be the last social network. The 2012 notes have the same idea: "You
+have to be durable." [CS183-03, from Blake Masters' class notes]
 
-> "More important than being the first mover is being the last mover. You have to be durable." [CS183-03, from
-> Blake Masters' class notes]
-
-Asked whether being the last mover implies there was competition first, he says the winners were first on the
-dimension that mattered: Google "were the first one with page rank, with an automated approach", and Reid
-Hoffman's SocialNet existed in 1997, but "Facebook was the first one to get real identity" [YCL5].
+Asked whether last mover implies there was competition first, he answers that the winners were first on the
+dimension that mattered: Google with its automated ranking, Facebook as "the first one to get real identity"
+[YCL5].
 
 ## Most of the value is far in the future
 
-> "If you do a discounted cash flow analysis of the business, you'll look at all these profit streams, you have
-> a growth rate, the growth rate's much higher that the discount rate and so most of the value exists far in
-> the future." [YCL5]
+When growth is well above the discount rate, a discounted cash flow puts "most of the value" "far in the future"
+[YCL5].
 
 ### The PayPal DCF, March 2001
 
-> "I did this exercise at Pay Pal in March of 2001 we'd been in business for about twenty seven months and the
-> growth rate was a hundred percent a year, we were discounting future cash flows by thirty percent, and it
-> turned out that about three quarters of the value of the business as of 2001 came from cash flows in years
-> 2011 and beyond." [YCL5]
+His own exercise, paraphrased: PayPal was about 27 months old, growing 100% a year, with future cash flows
+discounted at 30%. The result: "about three quarters of the value of the business as of 2001 came from cash flows
+in years 2011 and beyond." [YCL5]
 
 | Input (PayPal, March 2001) | Value [YCL5] |
 |---|---|
@@ -40,63 +35,73 @@ Hoffman's SocialNet existed in 1997, but "Facebook was the first one to get real
 | Discount rate | 30% |
 | Share of value from 2011 and later | about three quarters |
 
-The 2012 class notes add the follow-up: the discount rate turned out lower than expected and growth was still
-15%, so "Now, it looks like most of PayPal's value won't come until in 2020." [CS183-03, from Blake Masters'
-class notes] For LinkedIn in 2012, the notes have about $2B of value expected between 2012 and 2019, "while the
-other $8B reflects expectations about 2020 and beyond." [CS183-03]
-
-For 2014's startups: "the math tells you that three quarters, eighty-five percent of the value is coming from
-cash flows in years 2024 and beyond." [YCL5]
+The 2012 notes add a follow-up: the discount rate turned out lower and growth was still 15%, so most of the value
+now looked like it would come around 2020 [CS183-03]. For 2014's startups he puts the share from 2024 onward at
+three quarters to 85% [YCL5].
 
 ## We overvalue growth and undervalue durability
 
 > "one of the things that we always over value in Silicon Valley is growth rates and we undervalue durability."
 > [YCL5]
 
-> "Growth is something you can measure in the here and now, you can always track that very precisely. The
-> question of whether a company will be around a decade from now, that's actually what dominates the value
-> equation and that's a much more qualitative sort of a thing." [YCL5]
-
-> "Yet startup culture today pointedly ignores, and even resists, 10-15 year thinking." [CS183-03, from Blake
-> Masters' class notes]
+His reason, paraphrased: growth can be measured precisely now, while whether the company exists in a decade is
+qualitative, yet it dominates the value [YCL5].
 
 ## Each monopoly trait has a time dimension
 
-> "So there's a time dimension to all these characteristics." [YCL5]
+"So there's a time dimension to all these characteristics." [YCL5] Network effects strengthen as the network
+grows. Proprietary technology can be overtaken: 1980s disk-drive makers led the world and were replaced within a
+couple of years (our paraphrase [YCL5]). So you need to explain why yours is "the last breakthrough or at least
+the last breakthrough for a long time" [YCL5], or how you'll keep improving faster than anyone can catch up.
 
-- **Network effects strengthen:** "as the network scales, network effects actually get more robust" [YCL5].
-- **Proprietary technology can be overtaken:** "disk drive manufacturing in the 1980's, you could build a better
-  disk drive than anybody else, you could take over the whole world and two years later someone else would come
-  along and replace yours." [YCL5]
-- **So you need a theory of the last breakthrough:** "being able to explain why yours will be the last
-  breakthrough or at least the last breakthrough for a long time or if you make a breakthrough, then you can
-  keep improving on it at quick enough pace that no one can ever catch up." [YCL5]
-
-> "So if you have a structure of the future where there's a lot of innovation and other people will come up
-> with new things and the thing you're working on, that's great for society. It's actually not that good for
-> your business typically." [YCL5]
+**A durable incumbent, seen from outside.** In the 2012 Fortune debate he described Google's investment case as
+"a bet that there will be no one else who will come up with a better search technology." [FS12] **Our reading:**
+that's the last-mover bet stated plainly. Chapter 12 covers the other side of his argument: a company that stops
+finding new things to do with its cash.
 
 ## Timing: make the last great development
 
-> "But you want to enter the field when you can make the last great development, after which the drawbridge
-> goes up and you have permanent capture." [CS183-04, from Blake Masters' class notes]
-
-> "If nothing has happened in an industry for a long time, and you come along and dramatically improve
-> something important, chances are that no one else will come and do that again, to you." [CS183-04, from
-> Blake Masters' class notes]
+The notes' version: enter the field when you can make the last great development, "after which the drawbridge
+goes up and you have permanent capture." [CS183-04, from Blake Masters' class notes] And if nothing has happened
+in an industry for a long time, a dramatic improvement is less likely to be repeated against you [CS183-04].
 
 ## Study the endgame
 
-> "the first mover in chess is someone who plays white, white is about a one-third of a pawn advantage, so there
-> is a small advantage to going first. You want to be the last mover who wins the game" [YCL5]
+In chess, he notes, white's first-move edge is small; you want to be the last mover who wins [YCL5]. He quotes
+Capablanca, "You must begin by studying the end game." [YCL5], and asks:
 
-He quotes Capablanca, "You must begin by studying the end game." [YCL5], and adds the question that matters:
+> "why will this still be the leading company in ten, fifteen, twenty years from now" [YCL5]
 
-> "why will this still be the leading company in ten, fifteen, twenty years from now, is a really critical one
-> to try to think through." [YCL5]
+---
 
-**The move:** write down the market structure you expect in 10 to 20 years. If you can't say why you're the
-last one standing, the DCF says most of your value isn't real yet.
+## How to apply it (our reading)
+
+**A rough last-mover analysis.** The method is ours; the DCF framing is his [YCL5].
+
+1. **Build a three-stage DCF:** profit next year, growth for years 1 to 5, years 6 to 10, and after 10, plus a
+   discount rate.
+2. **Compute the share of value after year 10.** If it's over 50%, durability matters more than this year's
+   growth.
+3. **For each advantage, say whether it strengthens or decays** with time.
+4. **Name the next breakthrough after yours,** who could make it, and why they won't (or what you'll do).
+5. **Write the endgame:** the market in 10 to 20 years, how many serious players, and why you're the last one.
+6. **Pick one durability metric** to track next to growth (for example, three-year retention or share of the
+   category).
+
+**Worked numbers (fictional, rounded).** Profit next year $1m. Growth 80% a year for five years, 30% for years 6
+to 10, then 10% forever. Discount rate 20%. Years 1 to 10 are worth about $38m in today's money; everything after
+year 10 is worth about $69m, so roughly 65% of value comes after year 10. Cut the post-year-10 growth to 0% (a
+rival catches up) and total value falls by about a third, with nothing in this year's numbers changing. That's
+his point: the number you can't measure yet carries most of the value.
+
+**Failure modes (our reading):**
+- **Treating the DCF as a forecast.** It's a way to see what you're betting on, not a valuation.
+- **Durability claimed, not shown.** "Network effects" with no mechanism that gets stronger as you grow.
+- **Being first, not last.** First to market, then overtaken by the one who got the key dimension right.
+- **Growth theatre.** Tracking growth because it's easiest to measure [YCL5].
+
+**Limits:** the PayPal inputs are his rough figures from memory in 2014, and the notes give a different
+follow-up. The worked DCF above is invented and rounded.
 
 **Use it now:** `templates/06-ten-year-test.md`.
 
